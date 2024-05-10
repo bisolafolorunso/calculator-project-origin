@@ -2,13 +2,13 @@
 body{
     font-size: 16px;
     font-family:Arial, Helvetica, sans-serif;
-    background: rgb(141, 136, 135);
+    background: #8d8887;
+    
 }
 
 .container{
     width: 850px;
     height: 470px;
-    color: black;
     margin: 3rem auto;
     padding: 1px;
     max-width: 300px;
