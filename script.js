@@ -30,11 +30,3 @@ document.addEventListener('DOMContentLoaded', function() {
     
     
 });
-
-console.log('this');
-
-function printThis(params) {
-    console.log('this works')
-}
-
-console.log('show change on github desktop')
