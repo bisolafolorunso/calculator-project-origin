@@ -87,3 +87,16 @@ a:active{
 a:checked{
     color: chocolate;
 }
+
+@media(max-width: 999.99px){
+    table{
+        width: 50vw;
+    }
+}
+
+@media(max-width: 759.99px){
+    table{
+        width: 90vw;
+        margin: 3rem auto;
+    }
+}
